@@ -12,7 +12,7 @@ During the last two decades, power flow graphs have been established as a system
 
 This repository contains the following folders and files:
 - GUI tool folder:
-  -   PFG_tool_for_TPCs.mlapp\
+  -   <ins>PFG_tool_for_TPCs.mlapp</ins>\
       This is the source file for running the gui application. The interactivity of the app, together with the handling of the results provided by the proposed algorithm, are managed here.
   -   Create_PFG.m\
       This is the source file for the Create_PFG() function that performs the first part of the proposed algorithm, i.e. the creation of the power flow graphs WITHOUT the inclusion of fundamental converters. 
